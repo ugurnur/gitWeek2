@@ -7,6 +7,10 @@ public class MyMethod {
         
         int z = 3;
         int x = 88;
+        int r = 99;
+        
+        
+        
         
         System.out.println("this is remote repo update");
     }
