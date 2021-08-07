@@ -5,7 +5,13 @@ public class MyMethod {
     public static void main(String[] args) {
         System.out.println("my main");
         
+
         String str = "java";
+
+        int z = 3;
+        int x = 88;
+        int r = 99;
+
         
         System.out.println("this is remote repo update");
     }
